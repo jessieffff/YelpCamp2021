@@ -22,7 +22,7 @@ A Node.js web app project learned from the Udemy course: [The Web Developer Boot
 - View cluster map of the campgrounds
 - View map of where an individual campground is located when viewing the campground
 - Used Helmet to strengthen security
-- Responsive web design
+- Responsive web design with Bootstrap
 
 ## Built using
 
